@@ -1,5 +1,7 @@
 # Proof of a Monty Hall problem with python
 
+I found this problem very interesting so I decided to try to prove it with python.
+
 ### [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem):
 
 > Suppose you're on a game show, and you're given the choice of three
